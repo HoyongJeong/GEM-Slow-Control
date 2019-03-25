@@ -5,9 +5,10 @@ The scripts were used for GEM detector beam test experiment.
 
 
 ## HV supplier
-PNC 6000 - 10
-
-Not sure whether it works with another PNC series
+### Available for
+Heinzinger(R) Digital Interface II
+### Applied to
+PNC 6000 - 10 (Not sure whether it works with another PNC series)
 
 
 ## Motor
