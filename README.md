@@ -7,7 +7,7 @@ The scripts were used for GEM detector beam test experiment.
 ## HV supplier
 PNC 6000 - 10
 
-Not sure it works with another PNC series
+Not sure whether it works with another PNC series
 
 
 ## Motor
